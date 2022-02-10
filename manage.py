@@ -3,6 +3,12 @@
 import os
 import sys
 
+# trying to running aythentication of user
+
+# import os 
+os.system('app.py')
+# #os.startfile('app.py')
+
 
 def main():
     """Run administrative tasks."""
@@ -20,3 +26,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
